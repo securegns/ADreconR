@@ -1,2 +1,2 @@
-# ad-recon-r
+# ADreconR
 Recon for Active Directory
